@@ -1,4 +1,4 @@
 !#/bin/sh
 
-xmodmap ~/.Xmodmap
+xmodmap ~/.xmodmap
 exec xmonad
