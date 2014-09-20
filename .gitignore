@@ -3,3 +3,8 @@ fish/fish_history
 fish/fishd.*
 vim/bundle
 vim/backups
+
+xmonad/xmonad-x86_64-linux
+xmonad/xmonad.hi
+xmonad/xmonad.errors
+xmonad/xmonad.o
