@@ -1,1 +1,41 @@
+! --- terminal colors ----
+
+*foreground: #DADADA
+*background: #121212
+
+! Normal Black / Bright Black
+*color0: #080808
+*color8: #505354
+
+! Normal Red / Right Red
+*color1: #D70000
+*color9: #FF5F5F
+
+! Normal Green / Bright Green
+*color2: #00D700
+*color10: #87FF00
+
+! Normal Yellow / Bright Yellow
+*color3: #FF8700
+*color11: #FFD700
+
+! Normal Blue / Bright Blue
+*color4: #005FFF
+*color12: #0087FF
+
+! Normal Magenta / Bright Magenta
+*color5: #A55FFF
+*color13: #FF005F
+
+! Normal Cyan / Bright Cyan
+*color6: #0087D7
+*color14: #00D7FF
+
+! Normal White / Bright White
+*color7: #FFFFFF
+*colof15: #9E9E92
+
+
+URxvt.depth: 32
+URxvt.background: [90]#121212
 URxvt.scrollBar: false
