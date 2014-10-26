@@ -36,6 +36,9 @@
 *colof15: #9E9E92
 
 
+! use the same background with 90% transparency
 URxvt.depth: 32
 URxvt.background: [90]#121212
 URxvt.scrollBar: false
+!URxvt.font: xft:Source Code Pro:pixelsize=12
+URxvt.font: xft:Envy Code R:pixelsize=13

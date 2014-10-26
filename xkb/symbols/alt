@@ -1,0 +1,6 @@
+// Make alt keys an additional Ctrl.
+partial modifier_keys;
+xkb_symbols "ctrl" {
+  replace_key <LALT> { [ Control_L ] };
+  replace key <RALT> { [ Control_R ] };
+};

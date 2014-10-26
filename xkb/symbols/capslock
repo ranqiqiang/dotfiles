@@ -1,0 +1,7 @@
+// Make CapsLock a  Alt/Meta
+partial modifier_keys
+xkb_symbols "meta" {
+  modifer_map Mod1 { <CAPS> };
+  replace key <CAPS> { [ Alt_l, Meta_L ] };
+};
+
